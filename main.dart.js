@@ -63092,7 +63092,7 @@ case 5:case 3:return A.T(null,r)}})
 return A.U($async$op,r)}}
 A.Ud.prototype={}
 A.nT.prototype={
-R(a){this.a2X(this.d.c,"imgs/qr.jpg",60,60)
+R(a){this.a2X(this.d.c,"imgs/icon_head.png",60,60)
 return A.aai(A.adF(new A.Ub(this),null,null,null,t.d2))},
 TD(){var s=t.z
 if($.ip)return A.adE(new A.U6(),null,s)
